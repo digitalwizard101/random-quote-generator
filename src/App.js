@@ -153,7 +153,7 @@ const App = () => {
         >
           <div>
             <h1 id="text">
-              Welcome To Random Quotes <br />
+              Welcome To Random Quotes !!! <br />
               <FontAwesomeIcon icon={faQuoteLeft} />
             </h1>
           </div>
